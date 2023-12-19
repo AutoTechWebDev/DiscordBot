@@ -1,7 +1,7 @@
-module.exports = {
-  developer: 'Anigami',
-  ownerID: '197673134885699585',
-  token: 'ODYxNjA1MDU4NDQwMzMxMjY0.YOMOPQ.E4OBoyccxrpVEVibx6A6RyzBfoc',
+nmodule.exports = {
+  developer: 'EternalSessions6',
+  ownerID: //Discord Owner ID Here in ' ',
+  token: //Insert your discord OAuth Token Here in ' ',
   prefix: '!',
   mongodburi: 'mongodb+srv://anigami:Aa561197@cluster0.qoobr.mongodb.net/bankBot2?retryWrites=true&w=majority',
   database: 'bankBot2',
